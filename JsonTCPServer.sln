@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTCPServer", "JsonTCPServer\JsonTCPServer.csproj", "{076FA8FD-8ADE-493F-B883-659388B86D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076FA8FD-8ADE-493F-B883-659388B86D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076FA8FD-8ADE-493F-B883-659388B86D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076FA8FD-8ADE-493F-B883-659388B86D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076FA8FD-8ADE-493F-B883-659388B86D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F017B09-C06B-4688-8E1D-42C5F6C1D48A}
+	EndGlobalSection
+EndGlobal
